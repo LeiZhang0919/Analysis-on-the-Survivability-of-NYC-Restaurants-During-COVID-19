@@ -27,3 +27,7 @@ https://github.com/LeiZhang0919/Analysis-on-the-Survivability-of-NYC-Restaurants
 Read the presentation slides here:
 
 https://github.com/LeiZhang0919/Analysis-on-the-Survivability-of-NYC-Restaurants-During-COVID-19/blob/main/Presentation%20.pdf
+
+Read the poster here:
+
+https://github.com/LeiZhang0919/Analysis-on-the-Survivability-of-NYC-Restaurants-During-COVID-19/blob/main/BIA%20660%20Poster.pdf
